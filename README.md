@@ -38,6 +38,23 @@ This project collects job listings (from Indeed + fallback synthetic dataset), c
 * Skills co-occurrence heatmap.
 * Market trends bubble chart (demand vs compensation).
 
+![WhatsApp Image 2025-08-26 at 13 27 38_e558f327](https://github.com/user-attachments/assets/791a0fdc-f266-484f-abc8-25eb63eafd01)
+
+![WhatsApp Image 2025-08-26 at 13 28 30_f909c496](https://github.com/user-attachments/assets/c4461a9c-6912-4914-b4ae-a3e68d1e7167)
+
+![WhatsApp Image 2025-08-26 at 13 29 08_bff2dec7](https://github.com/user-attachments/assets/1464f7b8-f674-423e-8d89-2ac83bfc1fee)
+
+![WhatsApp Image 2025-08-26 at 13 30 08_de957f3d](https://github.com/user-attachments/assets/e76adda1-e4c0-4991-b3c4-c53d28891ead)
+
+
+
+
+
+
+
+
+
+
 ✅ *Comprehensive Data Export*
 Generates 5 CSV reports:
 
